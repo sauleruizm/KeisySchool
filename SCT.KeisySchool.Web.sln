@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCT.KeisySchool.Web", "SCT.KeisySchool.Web\SCT.KeisySchool.Web.csproj", "{3F1CC889-1791-45F2-BF60-72F04CAB66BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sct.KeisySchool.WebApi", "Sct.KeisySchool.WebApi\Sct.KeisySchool.WebApi.csproj", "{2B02F204-8472-4DFF-93ED-4CE9F61EA370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sct.KeisySchool.Models", "Sct.KeisySchool.Models\Sct.KeisySchool.Models.csproj", "{EE4581EE-D069-4191-8212-64434A9EECBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1CC889-1791-45F2-BF60-72F04CAB66BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1CC889-1791-45F2-BF60-72F04CAB66BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1CC889-1791-45F2-BF60-72F04CAB66BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1CC889-1791-45F2-BF60-72F04CAB66BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B02F204-8472-4DFF-93ED-4CE9F61EA370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B02F204-8472-4DFF-93ED-4CE9F61EA370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B02F204-8472-4DFF-93ED-4CE9F61EA370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B02F204-8472-4DFF-93ED-4CE9F61EA370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4581EE-D069-4191-8212-64434A9EECBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4581EE-D069-4191-8212-64434A9EECBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4581EE-D069-4191-8212-64434A9EECBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4581EE-D069-4191-8212-64434A9EECBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

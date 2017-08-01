@@ -1,0 +1,96 @@
+﻿@model IEnumerable<SCT.KeisySchool.Web.Models.Teachers.IUser>
+
+@{
+    ViewBag.Title = "Teacher";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Teacher</h2>
+<section class="container-fluid">
+    <section class="row">
+        <!--Tool bar for find-->
+        <nav class="navbar navbar-default navbar-left col-md-8">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Search Teacher</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                    <div class="navbar-form navbar-left">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Name, Lastname or PID">
+                        </div>
+                        <button type="submit" class="btn btn-success">Search</button>
+                    </div>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+
+    </section>
+    <section class="row">
+        <section class="col-md-8 table-responsive">
+            <table class="table table-hover table-striped table-condensed">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>PID</th>
+                        <th>Name</th>
+                        <th>Lastname</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="#">1</a></td>
+                        <td>4-000-00</td>
+                        <td>Keisy</td>
+                        <td>Cedeño</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#">2</a></td>
+                        <td>4-000-00</td>
+                        <td>Keisy</td>
+                        <td>Cedeño</td>
+                    </tr>
+                    <tr>
+                        <td><a href="#">3</a></td>
+                        <td>4-000-00</td>
+                        <td>Keisy</td>
+                        <td>Cedeño</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>        
+    </section>
+    <section class="row">
+        <nav aria-label="Page navigation" class="col-md-offset-5">
+            <ul class="pagination">
+                <li>
+                    <a href="#" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li>@Html.ActionLink("1","Details" )</li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li>
+                    <a href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+</section>

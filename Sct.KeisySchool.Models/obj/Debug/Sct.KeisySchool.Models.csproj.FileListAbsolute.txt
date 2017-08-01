@@ -1,0 +1,10 @@
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\Sct.KeisySchool.Models.dll
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\Sct.KeisySchool.Models.pdb
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\MongoDB.Bson.dll
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\MongoDB.Driver.Core.dll
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\MongoDB.Driver.dll
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\MongoDB.Bson.xml
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\bin\Debug\MongoDB.Driver.xml
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\obj\Debug\Sct.KeisySchool.Models.csprojResolveAssemblyReference.cache
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\obj\Debug\Sct.KeisySchool.Models.dll
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.Models\obj\Debug\Sct.KeisySchool.Models.pdb

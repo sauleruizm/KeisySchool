@@ -1,0 +1,1 @@
+C:\test-sruiz-workspaces\OurSchool\SCT.KeisySchool\SCT.KeisySchool.Web\Sct.KeisySchool.WebApi\obj\Debug\Sct.KeisySchool.WebApi.csprojResolveAssemblyReference.cache
